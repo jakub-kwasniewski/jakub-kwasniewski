@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h2 align="left">About me</h2>
 
+
+<h2 align="left">About me</h2>
 <p align="left">👨🏻‍🎓📚 Student at Cracow University of Technology<br> 
 
 <h2 align="left">Socials</h3>
@@ -9,7 +10,6 @@
 </p>
 
 <h2 align="left">Languages and Tools</h2>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -29,7 +29,6 @@
 </div>
 
 <h2 align="left">TryHackMe</h2>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3220286" style='border:none;'></iframe>
 <img src="https://tryhackme-badges.s3.amazonaws.com/SlickSkeleton.png" alt="Your Image Badge" />
 
 
